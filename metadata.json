@@ -1,0 +1,8 @@
+{
+  "name": "EuskalMeteo",
+  "description": "App meteorológica regional para el País Vasco con datos de Euskalmet y AEMET, mapas interactivos de precipitación y viento.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
